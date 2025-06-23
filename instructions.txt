@@ -1,0 +1,11 @@
+First install following extensions
+   (1)  Custom Css and JS loader
+   (2)  Peacock (optional) for sidebar coloring and color matching 
+   (3)  Jetbrains Icon themes (Optional)  for icons themes
+
+   then type F1 and add type  "Edit user settings(JSON)" and add (assuming you have downloaded file inside Downloads
+            "vscode_custom_css.imports": [
+        "file://C:/Users/wwwpa/OneDrive/Downloads/Vscode_themes.css"
+    ],
+
+    and then type " Custom Css and JS loader" and restart vscode
