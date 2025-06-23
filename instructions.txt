@@ -9,3 +9,5 @@ First install following extensions
     ],
 
     and then type " Custom Css and JS loader" and restart vscode
+
+jupyter cells will give issue , while working inside jupyter cells   commentize first   " editor .content, .monaco .content" on 66 to 81 line no. and uncomment another on line no. 83 to 91 
