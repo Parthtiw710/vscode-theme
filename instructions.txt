@@ -5,7 +5,7 @@ First install following extensions
 
    then type F1 and add type  "Edit user settings(JSON)" and add (assuming you have downloaded file inside Downloads
             "vscode_custom_css.imports": [
-        "file://C:/Users/wwwpa/OneDrive/Downloads/Vscode_themes.css"
+        "file://C:/Users/{username}/OneDrive/Downloads/Vscode_themes.css"
     ],
 
     and then type " Custom Css and JS loader" and restart vscode
