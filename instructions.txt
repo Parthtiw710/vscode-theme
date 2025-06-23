@@ -10,4 +10,8 @@ First install following extensions
 
     and then type " Custom Css and JS loader" and restart vscode
 
-jupyter cells will give issue , while working inside jupyter cells   commentize first   " editor .content, .monaco .content" on 66 to 81 line no. and uncomment another on line no. 83 to 91 
+jupyter cells will give issue , while working inside jupyter cells   commentize first   " editor .content, .monaco .content" on line 66 to 81 and uncomment another on line 83 to 91 
+
+
+
+To change image , convert image into base64 and place inside url on line 71
